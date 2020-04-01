@@ -1,0 +1,7 @@
+library(knitr)
+knit("texmex1d.Rnw")
+knit("texmexMultivariate.Rnw")
+knit("declustering.Rnw")
+knit("egp3.Rnw")
+knit("test_texmex.Rnw")
+q()
